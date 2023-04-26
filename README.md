@@ -3,11 +3,11 @@
 
 My name is Michelle Lee.
 
-Student in National Chengchi University, R.O.C(Taiwan).
+Student in National Chengchi University, R.O.C(Taiwan) 🌱 
 
 Welcome to my gitHub page ✨✨
 
-I'm now interested in software backend development and AI technology.
+I’m currently interested in software backend development and AI technology. 🔭 
 
 ### Skills
 #### Programming
