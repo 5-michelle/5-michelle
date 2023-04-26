@@ -9,6 +9,8 @@ Welcome to my gitHub page ✨✨
 
 I’m currently interested in software backend development and AI technology. 🔭 
 
+Working hard ... 💪
+
 ### Skills
 #### Programming
 
