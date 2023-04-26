@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone  <img src="https://user-images.githubusercontent.com/79308206/234523152-47607bb4-5ea2-42fc-acf2-750cb4fb95ce.gif" alt="doggy-dog" width="40" height="40">
+
 
 My name is Michelle Lee.
 
@@ -30,7 +31,6 @@ I'm now interested in software backend development and AI technology.
 ![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
