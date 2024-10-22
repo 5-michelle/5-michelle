@@ -3,7 +3,8 @@
 
 My name is Michelle Lee.
 
-Student in National Chengchi University, R.O.C(Taiwan) 🌱 
+A student currently enrolled in the MSBA program at UIUC. 
+Previously a student in National Chengchi University, R.O.C(Taiwan) 🌱 
 
 Welcome to my gitHub page ✨✨
 
